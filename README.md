@@ -1,69 +1,123 @@
-# Hey, I'm Gayan Viduranga 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;AI%2FML+%7C+Embedded+Systems;Full-Stack+Software+Developer;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction" />
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:071D2B,100:00E5FF&height=190&section=header&text=GAYAN%20VIDURANGA&fontSize=42&fontColor=EAFBFF&fontAlignY=36&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" alt="Gayan Viduranga profile banner"/>
+
+<a href="https://github.com/gayanviduranga95">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+Undergraduate;AI%2FML+%7C+Embedded+Systems;Full-Stack+%26+Backend+Development;Building+Practical%2C+Real-World+Projects" alt="Animated typing introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/gayanviduranga95"><img src="https://img.shields.io/badge/GitHub-gayanviduranga95-00E5FF?style=for-the-badge&logo=github&logoColor=07111F" alt="GitHub"/></a>
+  <a href="https://portfolio-blond-five-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=07111F" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=gayanviduranga95&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/gayanviduranga95">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://portfolio-blond-five-47.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-🎓 Computer Engineering undergraduate at the University of Ruhuna.
+```text
+Name       : Gayan Viduranga
+Role       : Computer Engineering Undergraduate
+Interests  : AI/ML • Embedded Systems • Software Engineering
+Focus      : Learning by building practical projects
+Mindset    : Build. Test. Learn. Improve.
+```
 
-💡 Interested in Artificial Intelligence, Machine Learning, Embedded Systems, and backend engineering.
+- 🎓 Studying Computer Engineering at the University of Ruhuna.
+- 🤖 Exploring AI, machine learning, and intelligent agent workflows.
+- 🔌 Interested in embedded systems, IoT, and hardware-software integration.
+- 💻 Building full-stack applications and backend APIs.
+- 🌱 Continuously improving through projects, collaboration, and problem solving.
 
-🛠️ Building practical projects using Java, Spring Boot, Python, C++, and modern web technologies.
-
-🌱 Currently improving my software engineering skills and exploring industry-oriented projects.
-
-🎯 Goal: Build reliable, intelligent systems that solve real-world problems.
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,js,ts,react,nextjs,vue,tailwind,mysql,postgres,docker,git,github,linux,vscode&perline=6" alt="Technology icons"/>
-</p>
-
-## 🌟 Featured Projects
-
-### 📚 LearnCraft
-Learning management system project.
-
-### 📱 QR-Based Attendance Tracking System
-A digital attendance platform built with Next.js and Spring Boot.
-
-### 🌱 Vee Market
-A farmer-focused marketplace project using a modern web frontend and Spring Boot backend.
-
-### 🤖 MedoraAI
-An AI-driven healthcare assistant concept using multi-agent workflows.
-
-Explore my repositories: [github.com/gayanviduranga95](https://github.com/gayanviduranga95)
-
-## 📊 GitHub Statistics
+## `> tech_stack --list`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayanviduranga95&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayanviduranga95&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,js,ts,vue,nextjs,react,tailwind,mysql,postgres,docker,git,github,linux,vscode&perline=9" alt="Languages, frameworks and developer tools"/>
 </p>
-
-## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gayanviduranga95/gayanviduranga95/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-00E5FF?style=flat-square&labelColor=07111F" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Learning-00E5FF?style=flat-square&labelColor=07111F" alt="Embedded systems"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Developing-00E5FF?style=flat-square&labelColor=07111F" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-C%2B%2B-00E5FF?style=flat-square&labelColor=07111F" alt="Problem solving"/>
 </p>
+
+## `> featured_projects`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📚 LearnCraft</h3>
+      A learning management system project focused on a clean, responsive user experience.
+      <br/><br/>
+      <a href="https://github.com/gayanviduranga95?tab=repositories">View repositories →</a>
+    </td>
+    <td width="50%">
+      <h3>📱 QR Attendance System</h3>
+      Digital attendance workflow using a Next.js frontend and Spring Boot backend.
+      <br/><br/>
+      <a href="https://github.com/gayanviduranga95?tab=repositories">Explore code →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌱 Vee Market</h3>
+      A farmer-focused marketplace concept with a modern web frontend and backend services.
+      <br/><br/>
+      <a href="https://github.com/gayanviduranga95/Vee-market">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 MedoraAI</h3>
+      An AI-assisted healthcare concept exploring multi-agent workflows.
+      <br/><br/>
+      <a href="https://github.com/gayanviduranga95?tab=repositories">Explore repositories →</a>
+    </td>
+  </tr>
+</table>
+
+> **Keep this section accurate:** replace any repository links above with the exact public repository URLs you want to showcase. Only list projects that you are comfortable presenting publicly.
+
+## `> github_stats`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gayanviduranga95&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=D7E8F2&ring_color=00E5FF" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayanviduranga95&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=D7E8F2" alt="Most-used languages"/>
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=gayanviduranga95&bg_color=050816&color=D7E8F2&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</div>
+
+## `> contribution_matrix`
+
+<div align="center">
+  <!-- Generated by the GitHub Actions workflow in .github/workflows/snake.yml -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gayanviduranga95/gayanviduranga95/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gayanviduranga95/gayanviduranga95/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/gayanviduranga95/gayanviduranga95/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+## `> current_mission`
+
+- [ ] Build more industry-style software projects.
+- [ ] Strengthen Java, Spring Boot, Python, and SQL fundamentals.
+- [ ] Explore AI/ML and embedded systems through hands-on work.
+- [ ] Keep learning, shipping, and documenting.
 
 ---
 
-<p align="center">
-  <i>Learn continuously. Build consistently. Make an impact.</i>
-</p>
+<div align="center">
+
+### `SYSTEM MESSAGE: KEEP BUILDING`
+
+*Learn continuously. Build consistently. Make an impact.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:071D2B,100:050816&height=100&section=footer" alt="Neon footer"/>
+
+</div>
